@@ -1,4 +1,2 @@
-flask
-pyodbc
-jinja2
-azure-identity  # for Azure Key Vault (if used)
+Flask==3.1.0
+gunicorn
